@@ -43,7 +43,6 @@ This project involves the development of an autonomous 4-wheel differential driv
 ## Future Work
 
 - **Enhancing Terrain Mapping**: Incorporating more sophisticated mapping algorithms for better terrain analysis and obstacle detection.
-- **Advanced Localization**: Implementing SLAM (Simultaneous Localization and Mapping) for improved localization accuracy in dynamic environments.
 - **Autonomous Path Planning**: Developing more advanced path planning algorithms to handle complex terrain and optimize route efficiency.
 
 ## Conclusion
