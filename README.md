@@ -35,7 +35,7 @@ This project involves the development of an autonomous 4-wheel differential driv
 3. **Launch the Rover**: Use the following command to start the rover's navigation system:
 
     ```bash
-    roslaunch mars_rover_navigation main_navigation.launch
+    rosrun $(your_package_name) hardware_auto2.py
     ```
 
 4. **Monitor and Control**: Use RViz or other ROS-compatible visualization tools to monitor the rover's real-time navigation and obstacle avoidance.
