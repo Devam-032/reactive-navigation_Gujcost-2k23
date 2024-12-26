@@ -1,6 +1,6 @@
 # 🚀 Reactive Navigation - Mars Rover Prototype 🛠️
 
-![GUJCOST Rover Robot](Image of final Rover.jpg)
+![GUJCOST Rover Robot](Gujcost_Rover.jpg)
 
 🎉 **Award-Winning Project**: This project was implemented at the **GUJCOST RoboFest 3.0**, a national competition, where our team won **10 lakh rupees** in prize money and was awarded the **Best Autonomous Functioning Rover**. My role in the team was to design and implement the **autonomous navigation algorithm**. 🌟
 
